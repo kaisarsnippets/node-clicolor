@@ -1,5 +1,5 @@
 # CLIColor
-Return colored cli text
+[nodejs] Return colored cli text
 
 ### Install
 ```
